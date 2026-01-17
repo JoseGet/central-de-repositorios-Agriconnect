@@ -2,10 +2,10 @@
 Repositorio indice dedicado ao repositorios do Agriconnect.
 
 ## Back-end
-* https://github.com/JoseGet/ProjetoCareiroBackEnd
+* https://github.com/JoseGet/ProjetoAgriconnectBackEnd
 
 ## Aplicações Web
 * 
 
 ## 🤖 Aplicação mobile Android 
-* https://github.com/JoseGet/AppCareiro
+* https://github.com/JoseGet/AppAgriconnect
